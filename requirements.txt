@@ -2,5 +2,11 @@ pandas
 numpy
 scikit-learn
 matplotlib
+plotly
+altair
+streamlit
+scipy
 seaborn
 jupyter
+lightkurve
+tensorflow

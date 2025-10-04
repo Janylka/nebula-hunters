@@ -19,6 +19,7 @@ nebula-hunters/
 │── data/               # Dataset (Kepler CSV)
 │── src/                # Source code for model & preprocessing
 │── notebooks/          # Jupyter notebooks for exploration
+│── models/             # Trained ML and LSTM models for prediction
 │── requirements.txt    # Dependencies
 │── README.md           # Project documentation
 ```
@@ -79,3 +80,7 @@ We use the **Kepler Exoplanet Candidate Catalog** from NASA Exoplanet Archive.
 
 ## 👨‍🚀 Team
 **Nebula Hunters** – Passionate explorers using AI to unlock the secrets of the cosmos.
+
+---
+
+✨ “Somewhere, something incredible is waiting to be known.” – Carl Sagan
