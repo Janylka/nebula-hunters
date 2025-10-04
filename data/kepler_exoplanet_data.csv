@@ -1,0 +1,4 @@
+koi_disposition,koi_period,koi_prad,koi_teq
+CONFIRMED,1.5,1.1,300
+FALSE POSITIVE,3.2,0.8,500
+CANDIDATE,10.5,2.3,200
