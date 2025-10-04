@@ -39,9 +39,9 @@ nebula-hunters/
    pip install -r requirements.txt
    ```
 
-3. Run Jupyter Notebook (optional):
+3. Run:
    ```bash
-   jupyter notebook
+   streamlit run app.py
    ```
 
 ---
