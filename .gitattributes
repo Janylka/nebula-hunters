@@ -3,3 +3,4 @@ data/raw/*.csv filter=lfs diff=lfs merge=lfs -text
 data/ml_ready/*.npy filter=lfs diff=lfs merge=lfs -text
 models/*.h5 filter=lfs diff=lfs merge=lfs -text
 models/*.pkl filter=lfs diff=lfs merge=lfs -text
+data/raw/kepler_exoplanets.csv filter=lfs diff=lfs merge=lfs -text
